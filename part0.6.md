@@ -10,4 +10,3 @@ sequenceDiagram
 
     Note right of browser: The server does not ask for a redirect. Browser stays on the same page and sends no further HTTP requests.  
 ```
-
